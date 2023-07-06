@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently doing computer science college<br>👯 I’m looking for an internship as my first job<br>🌱 I’m currently learning Javascript, python and database<br>
+🔭 I am currently doing computer science college<br>👯 I’m looking for an internship as my first job<br>🌱 I’m currently learning Javascript and Python.<br>
 
 
 ## 🌐 Socials:
